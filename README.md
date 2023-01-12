@@ -4,15 +4,15 @@ Project Title:
 Project Description:
 - This project aims to demonstrate proficiency building and using complete devops practice scenario. 
 
-It utilizes the following platform tools and technologies and includes features such as:
+It utilizes the following platforms, tools and technologies such as:
 - Linux: open-source operating system, command-line interface, support for a wide range of hardware, stability and security.
 - AWS (Amazon Web Services): cloud computing platform, offers a wide range of services including compute, storage, and databases, scalability and flexibility, security and compliance.
-- Terraform: infrastructure as code tool, provision and manage infrastructure resources across multiple cloud providers, versioning and collaboration.
+- Terraform: infrastructure as code tool, provision and manage infrastructure resources across multiple cloud providers.
 - Helm: package manager for Kubernetes, manage and deploy applications and services, versioning and rollback of releases.
-- Python: high-level programming language, easy to read and write, extensive libraries and frameworks, support for multiple programming paradigms.
-- Docker: containerization platform, package and deploy applications and their dependencies, portable and efficient.
+- Python: high-level programming language that is easy to read and write and has extensive libraries and frameworks support.
+- Docker: containerization platform, package and deploy applications and their dependencies.
 - Jenkins: open-source automation server, automate the building, testing, and deployment of software, integration with a wide range of tools and plugins.
-- Kubernetes: open-source container orchestration system, automate the deployment, scaling, and management of containerized applications, high availability and scalability.
+- Kubernetes: open-source container and orchestration system, deployment automation, scaling and management of containerized applications, high availability and scalability.
 
 The project is organized using the following best practices for building project structure and architecture: 
 - Source code: this includes the front-end and back-end code of the application, stored in a version control system GitHub.

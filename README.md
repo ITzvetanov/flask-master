@@ -20,14 +20,10 @@ The project is organized using the following best practices for building project
 - Containerization: this includes the process of packaging the application and its dependencies into a container, using Docker.
 - Configuration management: this includes the management of environment-specific configurations, using Terraform.
 - Orchestration: this includes the process of deploying and managing the containers in a cluster, using Kubernetes.
-- Monitoring and logging: this includes the process of monitoring the application's performance and logging events, using Prometheus and Grafana.
 - Scaling and high availability: this includes the process of ensuring the application can handle increased traffic and recover from failures, using AWS techniques like load balancing and auto-scaling.
 - Security: this includes the process of securing the application and AWS infrastructure, using network segmentation, firewalls, and encryption techniques.
 
 This project follows key components of Waterfall development methodology.
-
-Installation and Usage:
-- Run terraform init / apply.
 
 Contribution Guidelines:
 - Contributions to this project are welcome.

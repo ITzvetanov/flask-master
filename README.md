@@ -1,10 +1,10 @@
 Project Title: 
-- Flask v.1.00
+- Flask v.1.0
 
 Project Description:
-- This project aims to demonstrate proficiency building and using complete devops practice scenario. 
+- The goal of this project is to showcase expertise in creating and implementing a full devops workflow scenario. 
 
-It utilizes the following platforms, tools and technologies such as:
+It utilizes the following platforms, tools and technologies:
 - Linux: open-source operating system, command-line interface, support for a wide range of hardware, stability and security.
 - AWS (Amazon Web Services): cloud computing platform, offers a wide range of services including compute, storage, and databases, scalability and flexibility, security and compliance.
 - Terraform: infrastructure as code tool, provision and manage infrastructure resources across multiple cloud providers.
